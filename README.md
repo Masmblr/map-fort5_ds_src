@@ -26,11 +26,11 @@ Comparision Screenshots: </br>
 [<img src="meta/preview_levelshots/comparision_03.jpg" width="600"/>](meta/preview_levelshots/comparision_03.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 0.1    | 22/07/2017  | alpha | :x:        |     
-| 1.0    | 23/08/2017  | beta | :x:        |     
-| 1.1    | 18/08/2023  | final | [💾](https://github.com/Masmblr/map-Fort_DS_src/releases/tag/v1.1) |
+| Version: | Date:        | Status: |    
+| ------- | ------------- | ------: |
+| 0.1    | 22/07/2017  | alpha |
+| 1.0    | 23/08/2017  | beta |
+| 1.1    | 18/08/2023  | final |
 
 ## How-To
 **Binary**:
@@ -156,7 +156,7 @@ textures\fort5_ds\material_water_01.jpg <sup>[1](#Credit-1)</sup>
 ***
 
 ### Credit-1
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: Attribution-NonCommercial-ShareAlike 4.0 International \
 (See "LICENSE" file for more Informations.)
