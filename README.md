@@ -30,7 +30,7 @@ Comparision Screenshots: </br>
 | ------- | ------------- | ------: |
 | 0.1    | 22/07/2017  | alpha |
 | 1.0    | 23/08/2017  | beta |
-| 1.1    | 18/08/2023  | final |
+| 1.1    | 18/08/2023  | release |
 
 ## How-To
 **Binary**:
