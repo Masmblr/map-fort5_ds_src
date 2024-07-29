@@ -812,7 +812,7 @@ textures/fort5_ds/skybox
 	surfaceparm slick
 	surfaceparm nolightmap
 	q3map_sun 1 1 1 60 180 50
-	skyparms env/fort5_ds/neptune - -
+	skyparms env/fort5_ds/skybox - -
 	{
 		map env/fort5_ds/clouds.jpg
 		blendFunc add
