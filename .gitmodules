@@ -1,0 +1,3 @@
+[submodule "deps/common"]
+	path = deps/common
+	url = https://github.com/Masmblr/tremulous-map-common.git
