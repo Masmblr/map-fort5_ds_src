@@ -43,9 +43,7 @@ src/scripts/fort5_ds.arena
 src/scripts/fort5_ds.shader
 src/scripts/shaderlist.txt
 src/textures/fort5_ds/base_sign_aliens.jpg
-src/textures/fort5_ds/base_sign_aliens.kra
 src/textures/fort5_ds/base_sign_humans.jpg
-src/textures/fort5_ds/base_sign_humans.kra
 src/textures/fort5_ds/base_sign_screen_blue.jpg
 src/textures/fort5_ds/base_sign_screen_red.jpg
 src/textures/fort5_ds/ds_banner_blue.tga
